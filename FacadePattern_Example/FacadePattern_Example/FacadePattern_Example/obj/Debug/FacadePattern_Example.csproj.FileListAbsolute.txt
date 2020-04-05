@@ -1,0 +1,6 @@
+C:\calismalar\KaynakKod\ExampleApps\FacadePattern_Example\FacadePattern_Example\FacadePattern_Example\bin\Debug\FacadePattern_Example.exe.config
+C:\calismalar\KaynakKod\ExampleApps\FacadePattern_Example\FacadePattern_Example\FacadePattern_Example\bin\Debug\FacadePattern_Example.exe
+C:\calismalar\KaynakKod\ExampleApps\FacadePattern_Example\FacadePattern_Example\FacadePattern_Example\bin\Debug\FacadePattern_Example.pdb
+C:\calismalar\KaynakKod\ExampleApps\FacadePattern_Example\FacadePattern_Example\FacadePattern_Example\obj\Debug\FacadePattern_Example.csprojResolveAssemblyReference.cache
+C:\calismalar\KaynakKod\ExampleApps\FacadePattern_Example\FacadePattern_Example\FacadePattern_Example\obj\Debug\FacadePattern_Example.exe
+C:\calismalar\KaynakKod\ExampleApps\FacadePattern_Example\FacadePattern_Example\FacadePattern_Example\obj\Debug\FacadePattern_Example.pdb
